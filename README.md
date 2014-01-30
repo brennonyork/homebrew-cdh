@@ -1,7 +1,7 @@
 homebrew-cdh
 ============
 
-[Homebrew](http://brew.sh) formulae for [CDH](http://www.cloudera.com/content/cloudera/en/products/cdh.html)
+[Homebrew](http://brew.sh) formulae for [CDH](http://www.cloudera.com/content/cloudera/en/products/cdh.html) forked from [hammer](https://github.com/hammer/homebrew-cdh) updated to CDH version 4.5.0.
 
 ## Formulae
 * cdh-hadoop
