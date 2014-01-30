@@ -1,7 +1,7 @@
 homebrew-cdh
 ============
 
-[Homebrew](http://mxcl.github.com/homebrew/) formulae for [CDH](http://www.cloudera.com/content/cloudera/en/products/cdh.html)
+[Homebrew](http://brew.sh) formulae for [CDH](http://www.cloudera.com/content/cloudera/en/products/cdh.html)
 
 ## Formulae
 * cdh-hadoop
@@ -10,7 +10,7 @@ homebrew-cdh
 ## Usage
 
 ```bash
-brew tap hammer/cdh
+brew tap brennonyork/cdh
 ```
 
 I think you'll also need [Command Line Tools for Xcode](http://developer.apple.com/downloads).
