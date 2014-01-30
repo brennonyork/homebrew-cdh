@@ -20,7 +20,7 @@ class CdhHadoop < Formula
     bin.mkpath
     Dir["#{libexec}/bin/*"].each do |b|
       n = Pathname.new(b).basename
-      (bin+n).write shim_script("cdh"+n)
+      (bin+n).write shim_script(n)
     end
 
     inreplace "#{libexec}/etc/hadoop/hadoop-env.sh",
